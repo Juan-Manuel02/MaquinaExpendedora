@@ -9,8 +9,5 @@ public class Main {
     maquina.rellenarStock();
     JOptionPane.showMessageDialog(null, maquina.mostrarGolosinas());
     maquina.apagarMaquina();
-
-
-
     }
 }
